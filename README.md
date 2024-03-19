@@ -1,3 +1,9 @@
+### About me
+
+Sleepiest being in my household; I do various things and I'm equally average at all of them. 🎀
+
+I'm also a regular [osu!](https://osu.ppy.sh/users/10000899) tournament organiser and [tournament committee member](https://osu.ppy.sh/wiki/en/People/Tournament_Committee)!
+
 [![shdewz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdewz&show_icons=true&hide=contribs&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![shdewz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shdewz&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
