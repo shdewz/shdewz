@@ -2,6 +2,8 @@
 
 Sleepiest being in my household; I do various things and I'm equally average at all of them. 🎀
 
+2023年から日本語学生
+
 I'm also a regular [osu!](https://osu.ppy.sh/users/10000899) tournament organiser and [tournament committee member](https://osu.ppy.sh/wiki/en/People/Tournament_Committee)!
 
 ### Find me at
@@ -14,18 +16,3 @@ I'm also a regular [osu!](https://osu.ppy.sh/users/10000899) tournament organise
 
 [![shdewz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdewz&show_icons=true&hide=contribs&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![shdewz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shdewz&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**shdewz/shdewz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
