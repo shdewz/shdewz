@@ -14,5 +14,9 @@ I'm also a regular [osu!](https://osu.ppy.sh/users/10000899) tournament organise
 [![discord: shdewz](https://img.shields.io/badge/DISCORD:%20shdewz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![steam](https://img.shields.io/badge/STEAM-171D25?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/shdewz/)
 
+### Tournament overlays
+
+Feel free to use and modify my public overlays ([3WC](https://github.com/shdewz/3wc-stream-overlay) / [4WC](https://github.com/shdewz/4wc-stream-overlay)) for your own tournaments, but please use credit if you do!
+
 [![shdewz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdewz&show_icons=true&hide=contribs&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![shdewz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shdewz&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
