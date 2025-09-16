@@ -2,8 +2,6 @@
 
 Sleepiest being in my household; I do various things and I'm equally average at all of them. 🎀
 
-2023年から日本語学生
-
 I'm also a regular [osu!](https://osu.ppy.sh/users/10000899) tournament organiser and [tournament committee member](https://osu.ppy.sh/wiki/en/People/Tournament_Committee)!
 
 ### Find me at
